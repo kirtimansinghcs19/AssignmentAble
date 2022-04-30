@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905630694413",
+    "project_id": "assignmentable",
+    "storage_bucket": "assignmentable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905630694413:android:e1821a8032df667ff8a944",
+        "android_client_info": {
+          "package_name": "com.example.assignmentable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905630694413-ajlvps0qutifeinprcd06i4q4dr9i99f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVD3ftF_a04gclh6zKWPAIblAcE6dhCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905630694413-ajlvps0qutifeinprcd06i4q4dr9i99f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
